@@ -9,7 +9,7 @@
  * alu0100881622@ull.edu.es
  * 
  * @author Ernesto Echeverr&iacute;a Gonz&aacute;lez
- * @version 1.0.0
+ * @version 1.0.1
  * @since 10-02-2017
  */
 import java.util.Scanner;
