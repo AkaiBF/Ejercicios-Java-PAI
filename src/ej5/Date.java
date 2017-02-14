@@ -6,7 +6,7 @@
  * For further information, contact the author via e-mail:
  * alu0100881622@ull.edu.es
  * 
- * @author Ernesto Echeverr&iacute;a Gonz&aacute;lez
+ * @author Ernesto Echeverría González
  * @version 1.0.0
  * @since 13-02-2017
  */

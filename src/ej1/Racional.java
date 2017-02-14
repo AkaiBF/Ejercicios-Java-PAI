@@ -19,7 +19,7 @@
  
 
 public class Racional {
-  int numerador, denominador;
+  private int numerador, denominador;
   
   /**
    * Constructor used by default. It will set the rational number 0/1 which is
@@ -47,8 +47,26 @@ public class Racional {
    * @param original This is the original rational number to be copied.
    */
   public Racional(Racional original) {
-    this.numerador = original.numerador;
-    this.denominador = original.denominador;
+    this.numerador = original.getNumerador();
+    this.denominador = original.getDenominador();
+  }
+  
+  /**
+   * Getter del atributo numerador.
+   * 
+   * @return El atributo numerador.
+   */
+  public int getNumerador() {
+    return numerador;
+  }
+  
+  /**
+   * Getter del atributo denominador.
+   * 
+   * @return El atributo denominador.
+   */
+  public int getDenominador() {
+    return denominador;
   }
   
   /**

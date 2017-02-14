@@ -1,14 +1,14 @@
 /**
  * <H1> Edad </H1>
  * This program shows the user's age when given his birthday and the present day.
- * This parameters are readen by the command line and must have the format dd/mm/yyyy
- * 
+ * This parameters are readen by the command line and must have the format dd/mm/yyyy.
+ * <br><br>
  * It uses the class Date included in this folder.
- * 
+ *  <br><br>
  * For further information, contact the author via e-mail:
  * alu0100881622@ull.edu.es
  * 
- * @author Ernesto Echeverr&iacute;a Gonz&aacute;lez
+ * @author Ernesto Echeverría González
  * @version 1.0.0
  * @since 13-02-2017
  */
